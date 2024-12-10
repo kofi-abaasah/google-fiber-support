@@ -40,7 +40,7 @@ This project focuses on improving the customer support experience for Google Fib
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kofi-abaasah/elevating-customer-support-at-google-fiber.git
+   git clone https://github.com/kofi-abaasah/google-fiber-support.git
 
 
 
@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 
 
-## 4. Run the scripts in the order listed in a python notebook 
+## 4. Run the scripts in the order listed in a python notebook. The first file depends on the other.
 python G_Fiber_Process.ipynb
 python G_Fiber_Analyze.ipynb
 
@@ -66,4 +66,4 @@ python G_Fiber_Analyze.ipynb
 For questions or feedback, please reach out to [abaasahkoffice@gmail.com] 
 
 
-#Thank you
+##Thank you
