@@ -55,7 +55,8 @@ pip install -r requirements.txt
 
 
 ## 4. Run the scripts in the order listed in a python notebook. The first file depends on the other.
-python G_Fiber_Process.ipynb
+python G_Fiber_process.ipynb
+
 python G_Fiber_Analyze.ipynb
 
 
